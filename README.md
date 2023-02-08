@@ -1,6 +1,6 @@
 # Relógio Analógico - Manual do Dev
 
-This is an analog clock created by Manual do Dev on his Youtube channel.
+This is an [Analog Clock](https://wiklyn.github.io/analog-clock---manual-do-dev/) created by Manual do Dev on his Youtube channel.
 
 ## Table of contents
 
